@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
-using backend_netcore.Database;
+using backend_netcore.Helpers;
 
 namespace backend_netcore
 {

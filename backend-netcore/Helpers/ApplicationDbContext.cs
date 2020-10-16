@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace backend_netcore.Database
+namespace backend_netcore.Helpers
 {
     public class ApplicationDbContext : DbContext
   {

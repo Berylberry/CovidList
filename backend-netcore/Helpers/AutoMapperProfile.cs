@@ -7,7 +7,7 @@ namespace backend_netcore.Helpers
     /*
     The automapper profile contains the mapping configuration used by the application.
     AutoMapper is a package available on Nuget that enables automatic mapping of one type 
-    of class to another. II'm using it to map between User entities and a few 
+    of class to another. I'm using it to map between User entities and a few 
     different model types - UserModel, RegisterModel and UpdateModel.
     */
     public class AutoMapperProfile : Profile
