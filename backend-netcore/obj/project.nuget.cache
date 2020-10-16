@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "GYKSVmZrgLJUBRppghOXsIZO9WTVTeNEcD/KOfxXt0ij7znSwMoD1VHvOF+yWlZbWLbWSX1lW6zQBig3MVjFIw==",
+  "dgSpecHash": "L/oDNK3BFBr5dNnMPEWRBIH52zjLulULV32BxU3fi2RFP/9+NxIWIiVTeTEzPadVY6NCMdfp/7ukzpiNzDvJTQ==",
   "success": true,
   "projectFilePath": "D:\\documents\\ASP.NET core\\CovidList\\backend-netcore\\backend-netcore.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Beryl Obiatey\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Beryl Obiatey\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Beryl Obiatey\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "C:\\Users\\Beryl Obiatey\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Beryl Obiatey\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.8\\microsoft.data.sqlite.core.3.1.8.nupkg.sha512",
     "C:\\Users\\Beryl Obiatey\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\Beryl Obiatey\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.8\\microsoft.entityframeworkcore.3.1.8.nupkg.sha512",
@@ -34,6 +36,7 @@
     "C:\\Users\\Beryl Obiatey\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\Beryl Obiatey\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\Beryl Obiatey\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Beryl Obiatey\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Beryl Obiatey\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
   ],
   "logs": []
