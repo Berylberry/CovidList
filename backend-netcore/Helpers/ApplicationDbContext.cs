@@ -9,11 +9,11 @@ namespace backend_netcore.Helpers
     { }
 
     
-    public DbSet<User> User {get; set;}
+    public DbSet<User> Users {get; set;}
     public DbSet<Attendance> Attendance {get; set;}
-    public DbSet<Church> Church {get; set;}
-    public DbSet<Event> Event {get; set;}
-    public DbSet<Location> Location {get; set;}
-    public DbSet<Member> Member {get; set;}
+    public DbSet<Church> Churches {get; set;}
+    public DbSet<Event> Events {get; set;}
+    public DbSet<Location> Locations {get; set;}
+    public DbSet<Member> Members {get; set;}
   }
 }
